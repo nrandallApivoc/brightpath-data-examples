@@ -1,0 +1,44 @@
+[
+  {
+    "ats": "greenhouse",
+    "company": "stripe",
+    "jobId": "8172508",
+    "title": "Abuse Investigator",
+    "department": "8611 Security Analytics",
+    "location": "Dublin",
+    "remote": null,
+    "employmentType": null,
+    "url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "postedAt": "2026-09-03T13:32:53-04:00",
+    "updatedAt": "2026-09-25T16:45:00-04:00",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to..."
+  },
+  {
+    "ats": "greenhouse",
+    "company": "stripe",
+    "jobId": "8172503",
+    "title": "Abuse Research Engineer",
+    "department": "8611 Security Analytics",
+    "location": "Remote from the US",
+    "remote": true,
+    "employmentType": null,
+    "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "postedAt": "2026-09-09T10:52:09-04:00",
+    "updatedAt": "2026-09-25T16:45:00-04:00",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to th..."
+  },
+  {
+    "ats": "greenhouse",
+    "company": "stripe",
+    "jobId": "8138044",
+    "title": "Account Executive, AI Sales",
+    "department": "1654 Account Executives (AI)",
+    "location": "San Francisco, CA",
+    "remote": null,
+    "employmentType": null,
+    "url": "https://stripe.com/jobs/search?gh_jid=8138044",
+    "postedAt": "2026-09-18T13:27:51-04:00",
+    "updatedAt": "2026-09-25T16:44:55-04:00",
+    "description": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most am..."
+  }
+]

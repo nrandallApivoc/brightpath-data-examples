@@ -1,0 +1,88 @@
+[
+  {
+    "site": "https://shopify.com",
+    "finalUrl": "https://www.shopify.com/",
+    "httpStatus": 200,
+    "technologies": [
+      "Shopify",
+      "Cloudflare"
+    ],
+    "technologyCategories": [
+      {
+        "name": "Shopify",
+        "category": "ecommerce"
+      },
+      {
+        "name": "Cloudflare",
+        "category": "cdn"
+      }
+    ],
+    "hosting": null,
+    "cdn": "Cloudflare",
+    "ecommercePlatform": "Shopify",
+    "analytics": [],
+    "server": "cloudflare",
+    "poweredBy": null,
+    "generator": null,
+    "checkedAt": "2026-09-28T23:21:23.428Z"
+  },
+  {
+    "site": "https://github.com",
+    "finalUrl": "https://github.com/",
+    "httpStatus": 200,
+    "technologies": [
+      "GitHub Pages"
+    ],
+    "technologyCategories": [
+      {
+        "name": "GitHub Pages",
+        "category": "hosting"
+      }
+    ],
+    "hosting": "GitHub Pages",
+    "cdn": null,
+    "ecommercePlatform": null,
+    "analytics": [],
+    "server": "github.com",
+    "poweredBy": null,
+    "generator": null,
+    "checkedAt": "2026-09-28T23:21:23.838Z"
+  },
+  {
+    "site": "https://notion.so",
+    "finalUrl": "https://www.notion.com/",
+    "httpStatus": 200,
+    "technologies": [
+      "Next.js",
+      "React",
+      "Cloudflare",
+      "Vercel"
+    ],
+    "technologyCategories": [
+      {
+        "name": "Next.js",
+        "category": "framework"
+      },
+      {
+        "name": "React",
+        "category": "framework"
+      },
+      {
+        "name": "Cloudflare",
+        "category": "cdn"
+      },
+      {
+        "name": "Vercel",
+        "category": "hosting"
+      }
+    ],
+    "hosting": "Vercel",
+    "cdn": "Cloudflare",
+    "ecommercePlatform": null,
+    "analytics": [],
+    "server": "cloudflare",
+    "poweredBy": "Next.js",
+    "generator": null,
+    "checkedAt": "2026-09-28T23:21:24.194Z"
+  }
+]
